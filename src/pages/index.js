@@ -10,6 +10,7 @@ import FeedComponent from "../components/feed"
 import FooterComponent from "../components/footer"
 
 import "../styles/css/main.css"
+import "../styles/css/style.css"
 
 export default () => (
   <>
