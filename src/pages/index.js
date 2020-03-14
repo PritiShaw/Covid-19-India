@@ -1,3 +1,13 @@
 import React from "react"
+import SEO from "../components/seo"
 
-export default () => <div>Hello world!</div>
+import "../styles/css/main.css"
+
+export default () => (
+  <>
+    <SEO title='Covid19 India Help' />
+    <main>
+      <div>Hello world!</div>
+    </main>
+  </>
+)
