@@ -13,7 +13,7 @@ export default () => (
               Number
             }
           }
-        }
+        }  
       }      
     `}
     render={data => (
