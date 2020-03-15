@@ -1816,7 +1816,6 @@ input, select, textarea {
 /* Actions */
 
 	ul.actions {
-		padding-top: 1em;
 		list-style: none;
 		padding-left: 0;
 	}
@@ -1826,8 +1825,7 @@ input, select, textarea {
 		}
 
 		ul.actions li {
-			display: inline-block;
-			margin-left: 1em;
+			margin-top: 1em;
 			padding-left: 0;
 		}
 

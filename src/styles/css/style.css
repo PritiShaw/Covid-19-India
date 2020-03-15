@@ -6,31 +6,30 @@
     background-size: cover !important;
 }
 
-#button1 {
-    display: inline-block;
-    font-family:'Roboto',sans-serif;
-    text-align:center;  
+.actions .button {
+    font-weight: 900 ;
+    font-size: large;
+}
+
+.actions .button1 {
     font-weight: 900 ;
     font-size: large;
     border-radius: 0.5em;
     border-width: 0.2em;
 }
-#button1:hover{
-    color: darkgoldenrod;
-    border-color: darkgoldenrod;
+.actions .button1:hover{
+    color: darkgoldenrod !important;
+    border-color: darkgoldenrod !important;
     /*background-color: azure ;*/
 }
-#button2 {
-    display: inline-block;
-    font-family:'Roboto',sans-serif;
-    text-align:center;  
+.actions .button2 {
     font-weight: 900 ;
     font-size: 1em;
     border-radius: 0.5em;
     border-width: 0.2em;
 }
-#button2:hover{
-    color: darkgoldenrod;
-    border-color: darkgoldenrod;
+.actions .button2:hover{
+    color: darkgoldenrod !important;
+    border-color: darkgoldenrod !important;
     /*background-color: azure ;*/
 }

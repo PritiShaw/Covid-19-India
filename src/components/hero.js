@@ -44,19 +44,13 @@ export default class HeroComponent extends React.Component {
                 {/*site template by <a href="http://html5up.net">HTML5 UP</a>*/}
               </h2>
             </header>
-            <button id = "button1">Locate Nearest Hospital</button>
-            <br />
-            <p></p>
-            <button id="button2" >Call National Helpline </button>
-            <p></p>
-            <p>
-              Designed and built by <a href="http://twitter.com/ajlkn">AJ</a> and released for free under
-              <br />
-              the <a href="http://html5up.net/license">Creative Commons Attribution 3.0 license</a>.
-            </p>
             <ul className="actions">
-              <li><a href="#" className="button">Get this party started</a></li>
+              <li><a href="#" className="button button1  ">Locate Nearest Hospital</a></li>
+              <li><a href="#" className="button button2  ">Call National Helpline</a></li>
             </ul>
+            <p>
+              <strong>Let us Fight it together</strong>
+            </p>
           </section>
         </div>
 
