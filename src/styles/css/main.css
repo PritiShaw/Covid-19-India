@@ -50,7 +50,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+	
 body {
 	-webkit-text-size-adjust: none;
 }
@@ -2104,6 +2104,7 @@ input, select, textarea {
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
 		background-repeat: repeat, no-repeat, no-repeat;
+		
 	}
 
 	.homepage #header-wrapper {
