@@ -12,7 +12,7 @@ export default class HeroComponent extends React.Component {
             <nav id="nav">
               <ul>
                 <li>
-                  <a href="#">Dropdown</a>
+                  <a href="#">Precaution</a>
                   <ul>
                     <li><a href="#">Lorem ipsum dolor</a></li>
                     <li><a href="#">Magna phasellus</a></li>
@@ -29,9 +29,9 @@ export default class HeroComponent extends React.Component {
                     <li><a href="#">Veroeros feugiat</a></li>
                   </ul>
                 </li>
-                <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                <li className="break"><a href="right-sidebar.html">Right Sidebar</a></li>
-                <li><a href="no-sidebar.html">No Sidebar</a></li>
+                <li><a href="left-sidebar.html">Symptoms</a></li>
+                <li className="break"><a href="right-sidebar.html">Healthcare Centers</a></li>
+                <li><a href="no-sidebar.html">News</a></li>
               </ul>
             </nav>
           </div>

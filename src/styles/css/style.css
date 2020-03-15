@@ -9,6 +9,7 @@
 .actions .button {
     font-weight: 900 ;
     font-size: large;
+    color: brown !important;
 }
 
 .actions .button1 {
@@ -18,7 +19,8 @@
     border-width: 0.2em;
 }
 .actions .button1:hover{
-    color: darkgoldenrod !important;
+    color : darkgoldenrod !important;
+    background-color: rgba(255, 255, 255, 0.75) !important ;
     border-color: darkgoldenrod !important;
     /*background-color: azure ;*/
 }
@@ -29,7 +31,8 @@
     border-width: 0.2em;
 }
 .actions .button2:hover{
-    color: darkgoldenrod !important;
+    color : darkgoldenrod !important;
+    background-color: rgba(255, 255, 255, 0.75) !important ;
     border-color: darkgoldenrod !important;
     /*background-color: azure ;*/
 }
