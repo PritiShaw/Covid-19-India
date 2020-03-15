@@ -22,7 +22,7 @@ export default () => (
       <>
         {data.allNewsFeedCsv.edges.map((edge) => (
                           <div>
-                            <h3><a href={ edge.node.Url}>{edge.node.Title}</a></h3>
+                            <h3><a target="__blank" href={ edge.node.Url}>{edge.node.Title}</a></h3>
                             <small>{edge.node.PublishedAt}</small>
                             <p>{edge.node.Description}
                             <br/>
