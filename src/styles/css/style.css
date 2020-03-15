@@ -36,3 +36,25 @@
     border-color: darkgoldenrod !important;
     /*background-color: azure ;*/
 }
+
+
+.warning-tab {
+    margin: 0;
+    padding-bottom: 50px;
+    background-color: #ffc107;
+    color: #343a40
+}
+
+.info-tab {
+    margin: 0;
+    padding-bottom: 50px;
+    background-color: #cce5e9;
+    color: #343a40
+}
+
+.danger-tab {
+    margin: 0;
+    padding-bottom: 50px;
+    background-color: #ffcccb;
+    color: #000000
+}
