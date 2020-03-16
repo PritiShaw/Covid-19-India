@@ -25,6 +25,21 @@ export default () => (
                 <h2>Helpline Numbers</h2>
               </section>
               <section className='col-6 off-3 col-12-narrower feature'>
+                <center>
+                  <strong>
+                    National Helplines Number:{" "}
+                    <a href='tel:+91-11-23978046'>+91-11-23978046</a>
+                    <br />
+                    <a
+                      href='mailto:ncov2019@gmail.com'
+                      target='_top'
+                    >
+                    ncov2019@gmail.com
+                    </a>
+                  </strong>
+                  <br />
+                  <br />
+                </center>
                 <header>
                   <table>
                     {data.allHelpingNumbersCsv.edges.map(edge => (

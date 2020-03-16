@@ -37,7 +37,7 @@ export default class HeroComponent extends React.Component {
                 </a>
               </li>
               <li>
-                <a href='#HelplineNos' className='button button2  '>
+                <a href='tel:+91-11-23978046' className='button button2  '>
                   Call National Helpline
                 </a>
               </li>
