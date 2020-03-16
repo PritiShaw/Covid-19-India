@@ -4,7 +4,7 @@ export default class SymptomsComponent extends React.Component {
   render () {
     return (
       <>
-        <div className='wrapper'>
+        <div id="Symptoms" className='wrapper'>
           <section className='container'>
             <header className='major'>
               <div className='col-12'>
@@ -13,7 +13,7 @@ export default class SymptomsComponent extends React.Component {
             </header>
             <div className='row warning-tab'>
               <div className='col-1'>
-                <i className='fas fa-phone'></i>
+                {/* <i className='fas fa-phone'></i> */}
               </div>
               <div className='col-10'>
                 <b>Call your doctor:</b> If you think you have been exposed to
@@ -92,13 +92,6 @@ export default class SymptomsComponent extends React.Component {
                 </p>
               </div>
             </div>
-            {/* <ul className='actions major'>
-              <li>
-                <a href='#' className='button'>
-                  
-                </a>
-              </li>
-            </ul> */}
           </section>
         </div>
       </>

@@ -1,59 +1,52 @@
 import React from "react"
 
 export default class HeroComponent extends React.Component {
-  render() {
+  render () {
     return (
       <>
-        <div id="header-wrapper">
-          <div id="header" className="container">
+        <div id='header-wrapper'>
+          <div id='header' className='container'>
             {/* Logo */}
-            <h1 id="logo"><a>Covid19 India</a></h1>
+            <h1 id='logo'>
+              <a>Covid19 India</a>
+            </h1>
             {/* Nav */}
-            <nav id="nav">
+            <nav id='nav'>
               <ul>
                 <li>
-                  <a href="#">Precaution</a>
-                  <ul>
-                    <li><a href="#">Lorem ipsum dolor</a></li>
-                    <li><a href="#">Magna phasellus</a></li>
-                    <li><a href="#">Etiam dolore nisl</a></li>
-                    <li>
-                      <a href="#">Phasellus consequat</a>
-                      <ul>
-                        <li><a href="#">Lorem ipsum dolor</a></li>
-                        <li><a href="#">Phasellus consequat</a></li>
-                        <li><a href="#">Magna phasellus</a></li>
-                        <li><a href="#">Etiam dolore nisl</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="#">Veroeros feugiat</a></li>
-                  </ul>
+                  <a href='#HelplineNos'>Helpline</a>
                 </li>
-                <li><a href="left-sidebar.html">Symptoms</a></li>
-                <li className="break"><a href="right-sidebar.html">Healthcare Centers</a></li>
-                <li><a href="no-sidebar.html">News</a></li>
+                <li>
+                  <a href='#Symptoms'>Symptoms</a>
+                </li>
+                <li className='break'>
+                  <a href='#Statistics'>Statistics</a>
+                </li>
+                <li>
+                  <a href='#News'>News</a>
+                </li>
               </ul>
             </nav>
           </div>
           {/* Hero */}
-          <section id="hero" className="container">
-            <header>
-              <h2>
-                {/*Telephasic is a responsive*/}
-                <br />
-                {/*site template by <a href="http://html5up.net">HTML5 UP</a>*/}
-              </h2>
-            </header>
-            <ul className="actions">
-              <li><a href="#" className="button button1  ">Locate Nearest Hospital</a></li>
-              <li><a href="#" className="button button2  ">Call National Helpline</a></li>
+          <section id='hero' className='container' style={{height:"50vh"}}>
+            <ul className='actions'>
+              <li>
+                <a href='https://www.google.com/maps/search/hospitals/' className='button button1  '>
+                  Locate Nearest Hospital
+                </a>
+              </li>
+              <li>
+                <a href='#HelplineNos' className='button button2  '>
+                  Call National Helpline
+                </a>
+              </li>
             </ul>
             <p>
               <strong>Let us Fight it together</strong>
             </p>
           </section>
         </div>
-
       </>
     )
   }

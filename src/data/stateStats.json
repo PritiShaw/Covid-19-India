@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "lat": 14.7504291,
+    "long": 78.57002559,
+    "confirmed": 1,
+    "discharged": 0,
+    "death": 0
+  },
+  {
+    "name": "Delhi",
+    "lat": 28.6699929,
+    "long": 77.23000403,
+    "confirmed": 7,
+    "discharged": 2,
+    "death": 1
+  },
+  {
+    "name": "Haryana",
+    "lat": 28.45000633,
+    "long": 77.01999101,
+    "confirmed": 14,
+    "discharged": 0,
+    "death": 0
+  },
+  {
+    "name": "Karnataka",
+    "lat": 12.57038129,
+    "long": 76.91999711,
+    "confirmed": 6,
+    "discharged": 0,
+    "death": 1
+  },
+  {
+    "name": "Kerala",
+    "lat": 8.900372741,
+    "long": 76.56999263,
+    "confirmed": 22,
+    "discharged": 3,
+    "death": 0
+  },
+  {
+    "name": "Maharashtra",
+    "lat": 19.7515,
+    "long": 75.7139,
+    "confirmed": 32,
+    "discharged": 0,
+    "death": 0
+  },
+  {
+    "name": "Punjab",
+    "lat": "",
+    "long": "",
+    "confirmed": 1,
+    "discharged": 0,
+    "death": 0
+  },
+  {
+    "name": "Rajasthan",
+    "lat": "",
+    "long": "",
+    "confirmed": 4,
+    "discharged": 3,
+    "death": 0
+  },
+  {
+    "name": "Tamil Nadu",
+    "lat": "",
+    "long": "",
+    "confirmed": 1,
+    "discharged": 0,
+    "death": 0
+  },
+  {
+    "name": "Telengana",
+    "lat": "",
+    "long": "",
+    "confirmed": 3,
+    "discharged": 1,
+    "death": 0
+  },
+  {
+    "name": "Union Territory of Jammu and Kashmir",
+    "lat": 34.0837,
+    "long": 74.7973,
+    "confirmed": 2,
+    "discharged": 0,
+    "death": 0
+  },
+  {
+    "name": "Union Territory of Ladakh",
+    "lat": 34.2996,
+    "long": 78.2932,
+    "confirmed": 3,
+    "discharged": 0,
+    "death": 0
+  },
+  {
+    "name": "Uttar Pradesh",
+    "lat": "",
+    "long": "",
+    "confirmed": 13,
+    "discharged": 4,
+    "death": 0
+  },
+  {
+    "name": "Uttarakhand",
+    "lat": 30.0668,
+    "long": 79.0193,
+    "confirmed": 1,
+    "discharged": 0,
+    "death": 0
+  }
+]
