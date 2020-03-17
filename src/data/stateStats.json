@@ -27,7 +27,7 @@
         "name": "Karnataka",
         "lat": 14.5203896,
         "long": 75.7223521,
-        "confirmed": 6,
+        "confirmed": 8,
         "discharged": 0,
         "death": 1
     },
@@ -35,7 +35,7 @@
         "name": "Kerala",
         "lat": 10.3528744,
         "long": 76.5120396,
-        "confirmed": 23,
+        "confirmed": 24,
         "discharged": 3,
         "death": 0
     },
@@ -43,9 +43,9 @@
         "name": "Maharashtra",
         "lat": 19.531932,
         "long": 76.0554568,
-        "confirmed": 32,
+        "confirmed": 39,
         "discharged": 0,
-        "death": 0
+        "death": 1
     },
     {
         "name": "Odisha",
@@ -83,7 +83,7 @@
         "name": "Telengana",
         "lat": 17.329125,
         "long": 78.5822228,
-        "confirmed": 3,
+        "confirmed": 4,
         "discharged": 1,
         "death": 0
     },
