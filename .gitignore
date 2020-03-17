@@ -70,3 +70,4 @@ yarn-error.log
 
 # Python scripts
 *.py
+*.sh
