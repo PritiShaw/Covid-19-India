@@ -33,7 +33,7 @@ export default () => (
         </div>
       </div>
     </div>
-    <div className='wrapper' style={{ height: "100vh" }}>
+    <div id="map" className='wrapper' style={{ height: "100vh" }}>
       <div className='container'>
         <div className='row'>
           <section className='col-12'>
