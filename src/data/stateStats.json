@@ -8,7 +8,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 8, 
+        "confirmed": 10, 
         "death": 1, 
         "name": "Delhi", 
         "long": 77.2219388, 
@@ -16,7 +16,7 @@
         "discharged": 2
     }, 
     {
-        "confirmed": 15, 
+        "confirmed": 16, 
         "death": 0, 
         "name": "Haryana", 
         "long": 76.0, 
@@ -32,7 +32,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 26, 
+        "confirmed": 27, 
         "death": 0, 
         "name": "Kerala", 
         "long": 76.5120396, 
@@ -40,7 +40,7 @@
         "discharged": 3
     }, 
     {
-        "confirmed": 39, 
+        "confirmed": 41, 
         "death": 1, 
         "name": "Maharashtra", 
         "long": 76.0554568, 
@@ -96,7 +96,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 6, 
+        "confirmed": 8, 
         "death": 0, 
         "name": "Union Territory of Ladakh", 
         "long": 77.6568576, 
@@ -104,19 +104,11 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 15, 
+        "confirmed": 16, 
         "death": 0, 
         "name": "Uttar Pradesh", 
         "long": 80.859666, 
         "lat": 27.1303344, 
         "discharged": 5
-    }, 
-    {
-        "confirmed": 1, 
-        "death": 0, 
-        "name": "Uttarakhand", 
-        "long": 79.32176659343018, 
-        "lat": 30.091993549999998, 
-        "discharged": 0
     }
 ]
