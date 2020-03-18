@@ -29,8 +29,8 @@ export default class App extends React.Component {
         id: "heatMapLayer",    
         data: stateData,
         getPosition: d => [d.long, d.lat],
-        getWeight: d => d.death * 10 + d.confirmed * 5 - d.discharged * 2.5,
-        radiusMinPixels: 50,
+        getWeight: d => d.death * 5 + d.confirmed * 2.5 - d.discharged * 1.5,
+//         radiusMinPixels: 50,
         pickable: true,
         onClick: ({object,x,y}) =>
           console.log(object,x,y),
