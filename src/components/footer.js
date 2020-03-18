@@ -4,12 +4,13 @@ export default class FooterComponent extends React.Component {
   render () {
     return (
       <div
-        style={{ backgroundColor: "grey", color: "white", textAlign: "center" }}
+        style={{ backgroundColor: "grey", color: "white", textAlign: "center", padding: "1em" }}
       >
+        <a href="https://covid19india.netlify.com">covid19india.netlify.com</a>
         <p
           style={{
             margin: 0,
-            padding: "2em",
+            padding: "1em",
             fontSize: "0.75em",
             lineHeight: "1em",
           }}
