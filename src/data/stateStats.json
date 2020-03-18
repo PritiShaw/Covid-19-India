@@ -16,7 +16,7 @@
         "discharged": 2
     }, 
     {
-        "confirmed": 16, 
+        "confirmed": 17, 
         "death": 0, 
         "name": "Haryana", 
         "long": 76.0, 
@@ -40,7 +40,7 @@
         "discharged": 3
     }, 
     {
-        "confirmed": 41, 
+        "confirmed": 42, 
         "death": 1, 
         "name": "Maharashtra", 
         "long": 76.0554568, 
@@ -53,6 +53,14 @@
         "name": "Odisha", 
         "long": 84.6897321, 
         "lat": 20.5431241, 
+        "discharged": 0
+    }, 
+    {
+        "confirmed": 1, 
+        "death": 0, 
+        "name": "Pondicherry", 
+        "long": 79.8306447, 
+        "lat": 11.9340568, 
         "discharged": 0
     }, 
     {
@@ -80,7 +88,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 5, 
+        "confirmed": 6, 
         "death": 0, 
         "name": "Telengana", 
         "long": 78.5822228, 
