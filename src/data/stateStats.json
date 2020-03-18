@@ -110,5 +110,21 @@
         "long": 80.859666, 
         "lat": 27.1303344, 
         "discharged": 5
+    }, 
+    {
+        "confirmed": 1, 
+        "death": 0, 
+        "name": "Uttarakhand", 
+        "long": 79.32176659343018, 
+        "lat": 30.091993549999998, 
+        "discharged": 0
+    }, 
+    {
+        "confirmed": 1, 
+        "death": 0, 
+        "name": "West Bengal", 
+        "long": 87.6855882, 
+        "lat": 22.9964948, 
+        "discharged": 0
     }
 ]
