@@ -40,6 +40,7 @@ export default class App extends React.Component {
     return (
         <>
       <DeckGL
+        id="map"
         initialViewState={{
           latitude: 22.2937,
           longitude: 78.9629,
