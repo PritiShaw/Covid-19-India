@@ -1,10 +1,18 @@
 [
     {
-        "confirmed": 1, 
+        "confirmed": 2, 
         "death": 0, 
         "name": "Andhra Pradesh", 
         "long": 80.1863809, 
         "lat": 15.9240905, 
+        "discharged": 0
+    }, 
+    {
+        "confirmed": 1, 
+        "death": 0, 
+        "name": "Chattisgarh", 
+        "long": 81.8406351, 
+        "lat": 21.6637359, 
         "discharged": 0
     }, 
     {
@@ -13,7 +21,7 @@
         "name": "Delhi", 
         "long": 77.2219388, 
         "lat": 28.6517178, 
-        "discharged": 2
+        "discharged": 3
     }, 
     {
         "confirmed": 17, 
@@ -40,7 +48,7 @@
         "discharged": 3
     }, 
     {
-        "confirmed": 45, 
+        "confirmed": 47, 
         "death": 1, 
         "name": "Maharashtra", 
         "long": 76.0554568, 
@@ -120,12 +128,12 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 17, 
+        "confirmed": 19, 
         "death": 0, 
         "name": "Uttar Pradesh", 
         "long": 80.859666, 
         "lat": 27.1303344, 
-        "discharged": 5
+        "discharged": 9
     }, 
     {
         "confirmed": 1, 
