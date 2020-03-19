@@ -64,8 +64,8 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 1, 
-        "death": 0, 
+        "confirmed": 2, 
+        "death": 1, 
         "name": "Punjab", 
         "long": 75.5004841, 
         "lat": 30.9293211, 
