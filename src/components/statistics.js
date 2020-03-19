@@ -18,6 +18,18 @@ export default () => (
           <section className='col-12 feature'>
             <h2>Statistics</h2>
           </section>
+          <section className='col-4'>
+            <h4>Confirmed</h4>
+            <h2>{counter[1]}</h2>
+          </section>
+          <section className='col-4'>
+            <h4>Recovered</h4>
+            <h2>{counter[2]}</h2>
+          </section>
+          <section className='col-4'>
+            <h4>Deaths</h4>
+            <h2>{counter[0]}</h2>
+          </section>
         </div>
       </div>
     </div>
@@ -32,17 +44,5 @@ export default () => (
         </div>
       </div>
     </div>
-    <section className='col-4'>
-      <h4>Confirmed</h4>
-      <h2>{counter[1]}</h2>
-    </section>
-    <section className='col-4'>
-      <h4>Recovered</h4>
-      <h2>{counter[2]}</h2>
-    </section>
-    <section className='col-4'>
-      <h4>Deaths</h4>
-      <h2>{counter[0]}</h2>
-    </section>
   </>
 )
