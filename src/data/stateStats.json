@@ -10,18 +10,26 @@
     {
         "confirmed": 1, 
         "death": 0, 
-        "name": "Chattisgarh", 
+        "name": "Chhattisgarh", 
         "long": 81.8406351, 
         "lat": 21.6637359, 
         "discharged": 0
     }, 
     {
-        "confirmed": 12, 
+        "confirmed": 17, 
         "death": 1, 
         "name": "Delhi", 
         "long": 77.2219388, 
         "lat": 28.6517178, 
         "discharged": 3
+    }, 
+    {
+        "confirmed": 2, 
+        "death": 0, 
+        "name": "Gujarat", 
+        "long": 72.03149703699282, 
+        "lat": 22.41540825, 
+        "discharged": 0
     }, 
     {
         "confirmed": 17, 
@@ -32,7 +40,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 14, 
+        "confirmed": 15, 
         "death": 1, 
         "name": "Karnataka", 
         "long": 75.7223521, 
@@ -40,7 +48,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 27, 
+        "confirmed": 28, 
         "death": 0, 
         "name": "Kerala", 
         "long": 76.5120396, 
@@ -88,7 +96,7 @@
         "discharged": 3
     }, 
     {
-        "confirmed": 2, 
+        "confirmed": 3, 
         "death": 0, 
         "name": "Tamil Nadu", 
         "long": 78.3665347, 
@@ -96,7 +104,7 @@
         "discharged": 1
     }, 
     {
-        "confirmed": 6, 
+        "confirmed": 16, 
         "death": 0, 
         "name": "Telengana", 
         "long": 78.5822228, 
@@ -120,7 +128,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 8, 
+        "confirmed": 10, 
         "death": 0, 
         "name": "Union Territory of Ladakh", 
         "long": 77.6568576, 
