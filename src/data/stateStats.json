@@ -1,6 +1,6 @@
 [
     {
-        "confirmed": 2, 
+        "confirmed": 3, 
         "death": 0, 
         "name": "Andhra Pradesh", 
         "long": 80.1863809, 
@@ -21,10 +21,10 @@
         "name": "Delhi", 
         "long": 77.2219388, 
         "lat": 28.6517178, 
-        "discharged": 3
+        "discharged": 5
     }, 
     {
-        "confirmed": 2, 
+        "confirmed": 5, 
         "death": 0, 
         "name": "Gujarat", 
         "long": 72.03149703699282, 
@@ -45,7 +45,7 @@
         "name": "Karnataka", 
         "long": 75.7223521, 
         "lat": 14.5203896, 
-        "discharged": 0
+        "discharged": 1
     }, 
     {
         "confirmed": 28, 
@@ -56,7 +56,7 @@
         "discharged": 3
     }, 
     {
-        "confirmed": 47, 
+        "confirmed": 52, 
         "death": 1, 
         "name": "Maharashtra", 
         "long": 76.0554568, 
@@ -64,7 +64,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 1, 
+        "confirmed": 2, 
         "death": 0, 
         "name": "Odisha", 
         "long": 84.6897321, 
@@ -88,7 +88,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 7, 
+        "confirmed": 17, 
         "death": 0, 
         "name": "Rajasthan", 
         "long": 73.7684549, 
@@ -104,7 +104,7 @@
         "discharged": 1
     }, 
     {
-        "confirmed": 16, 
+        "confirmed": 17, 
         "death": 0, 
         "name": "Telengana", 
         "long": 78.5822228, 
@@ -136,7 +136,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 19, 
+        "confirmed": 23, 
         "death": 0, 
         "name": "Uttar Pradesh", 
         "long": 80.859666, 
@@ -144,7 +144,7 @@
         "discharged": 9
     }, 
     {
-        "confirmed": 1, 
+        "confirmed": 3, 
         "death": 0, 
         "name": "Uttarakhand", 
         "long": 79.32176659343018, 
@@ -152,7 +152,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 1, 
+        "confirmed": 2, 
         "death": 0, 
         "name": "West Bengal", 
         "long": 87.6855882, 
