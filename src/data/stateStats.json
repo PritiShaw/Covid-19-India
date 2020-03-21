@@ -72,7 +72,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 52, 
+        "confirmed": 63, 
         "death": 1, 
         "name": "Maharashtra", 
         "long": 76.0554568, 
@@ -96,7 +96,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 2, 
+        "confirmed": 13, 
         "death": 1, 
         "name": "Punjab", 
         "long": 75.5004841, 
@@ -120,7 +120,7 @@
         "discharged": 1
     }, 
     {
-        "confirmed": 19, 
+        "confirmed": 21, 
         "death": 0, 
         "name": "Telengana", 
         "long": 78.5822228, 
@@ -168,7 +168,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 2, 
+        "confirmed": 3, 
         "death": 0, 
         "name": "West Bengal", 
         "long": 87.6855882, 
