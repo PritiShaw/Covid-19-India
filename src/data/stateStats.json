@@ -1,6 +1,6 @@
 [
     {
-        "confirmed": 5, 
+        "confirmed": 7, 
         "death": 0, 
         "name": "Andhra Pradesh", 
         "long": 80.1863809, 
@@ -32,7 +32,7 @@
         "discharged": 5
     }, 
     {
-        "confirmed": 18, 
+        "confirmed": 29, 
         "death": 1, 
         "name": "Gujarat", 
         "long": 72.03149703699282, 
@@ -40,7 +40,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 21, 
+        "confirmed": 26, 
         "death": 0, 
         "name": "Haryana", 
         "long": 76.0, 
@@ -56,7 +56,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 26, 
+        "confirmed": 33, 
         "death": 1, 
         "name": "Karnataka", 
         "long": 75.7223521, 
@@ -80,7 +80,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 67, 
+        "confirmed": 74, 
         "death": 2, 
         "name": "Maharashtra", 
         "long": 76.0554568, 
@@ -112,7 +112,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 27, 
+        "confirmed": 28, 
         "death": 0, 
         "name": "Rajasthan", 
         "long": 73.7684549, 
@@ -128,7 +128,7 @@
         "discharged": 1
     }, 
     {
-        "confirmed": 26, 
+        "confirmed": 32, 
         "death": 0, 
         "name": "Telengana", 
         "long": 78.5822228, 
@@ -136,7 +136,7 @@
         "discharged": 1
     }, 
     {
-        "confirmed": 5, 
+        "confirmed": 6, 
         "death": 0, 
         "name": "Chandigarh", 
         "long": 76.7646552, 
@@ -160,7 +160,7 @@
         "discharged": 0
     }, 
     {
-        "confirmed": 28, 
+        "confirmed": 31, 
         "death": 0, 
         "name": "Uttar Pradesh", 
         "long": 80.859666, 
