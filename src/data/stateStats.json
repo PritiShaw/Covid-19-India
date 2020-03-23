@@ -45,7 +45,7 @@
         "name": "Haryana", 
         "long": 76.0, 
         "lat": 29.0, 
-        "discharged": 0
+        "discharged": 11
     }, 
     {
         "confirmed": 2, 
@@ -177,7 +177,7 @@
     }, 
     {
         "confirmed": 7, 
-        "death": 0, 
+        "death": 1, 
         "name": "West Bengal", 
         "long": 87.6855882, 
         "lat": 22.9964948, 
