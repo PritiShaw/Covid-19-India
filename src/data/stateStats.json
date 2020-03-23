@@ -48,8 +48,8 @@
         "discharged": 11
     }, 
     {
-        "confirmed": 2, 
-        "death": 0, 
+        "confirmed": 3, 
+        "death": 1, 
         "name": "Himachal Pradesh", 
         "long": 77.34932051968858, 
         "lat": 31.81676015, 
